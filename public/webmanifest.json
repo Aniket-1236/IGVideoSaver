@@ -1,0 +1,33 @@
+{
+  "name": "IGVideoSaver",
+  "short_name": "IGVideoSaver.in",
+  "icons": [
+    {
+      "src": "/images/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "lang": "en-us",
+  "dir": "ltr",
+  "start_url": "/",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "display": "standalone",
+  "orientation": "landscape-primary",
+  "description": "Unlock the power to download Instagram videos effortlessly with our Instagram Video Downloader. Get high-quality video downloads in seconds. Try it now!",
+  "categories": [
+    "Social Media Tools",
+    "Online Video Utilities",
+    "Content Downloader",
+    "Digital Marketing",
+    "Technology and Software",
+    "Social Media Marketing",
+    "Web Development Tools"
+  ]
+}
